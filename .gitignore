@@ -1,1 +1,3 @@
 venv/
+web/build/
+web/src/page_tracker.egg-info/
