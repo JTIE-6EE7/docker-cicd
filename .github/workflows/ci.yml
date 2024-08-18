@@ -11,7 +11,7 @@ on:
       - master
 
 jobs:
-  build:
+  build-me:
     name: Build Docker image and run end-to-end tests
     runs-on: ubuntu-latest
     steps:
